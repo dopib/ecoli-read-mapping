@@ -1,0 +1,10 @@
+data/
+tools/
+*.bt2
+*.bt2l
+*.fastq*
+*.fna*
+*.bam
+*.sam
+__pycache__/
+.venv/
