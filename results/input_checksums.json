@@ -1,0 +1,25 @@
+{
+  "reads": {
+    "file": "ERR022075_1.fastq.gz",
+    "size_bytes": 1875702420,
+    "md5": "4766e60e72da987e4c54e47fee5653a4",
+    "expected_ena_md5": "4766e60e72da987e4c54e47fee5653a4",
+    "verified": true
+  },
+  "reference": {
+    "file": "GCF_000005845.2_ASM584v2_genomic.fna.gz",
+    "md5": "c13d459b5caa702ff7e1f26fe44b8ad7",
+    "expected_ncbi_md5": "c13d459b5caa702ff7e1f26fe44b8ad7",
+    "verified": true
+  },
+  "ena_metadata": [
+    {
+      "run_accession": "ERR022075",
+      "read_count": "22720100",
+      "base_count": "4589460200",
+      "fastq_ftp": "ftp.sra.ebi.ac.uk/vol1/fastq/ERR022/ERR022075/ERR022075_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/ERR022/ERR022075/ERR022075_2.fastq.gz",
+      "fastq_md5": "4766e60e72da987e4c54e47fee5653a4;78608288625e084d68b4b5e8c1725933",
+      "fastq_bytes": "1875702420;1982742623"
+    }
+  ]
+}
